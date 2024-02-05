@@ -363,9 +363,9 @@ public class linklist {
                 p.next=p.next.next;
             }
             p=p.next;
-            // if(p==null){
-            //     break;
-            // }
+             if(p==null){
+                break;
+             }
            }
             temp = temp.next;
         }
