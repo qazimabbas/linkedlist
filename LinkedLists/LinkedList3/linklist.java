@@ -370,7 +370,7 @@ public class linklist {
             temp = temp.next;
         }
     }
-    public void Pairtosingle3(){
+   /* public void Pairtosingle3(){
         if(this.head==null){
             return;
         }
@@ -383,7 +383,7 @@ public class linklist {
                 }
             }
         }
-    }
+    }*/ this method is currently not working properly the above method is exactly the same use that one.
 
     
 }
